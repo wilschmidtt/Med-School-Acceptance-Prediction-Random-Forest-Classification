@@ -1,5 +1,5 @@
 # Med-School-Acceptance-Prediction-Random-Forest-Classification
-Use data about medical school applicants and acceptances along with Random Forest Classification to classify whether a specified canidate will get accepted or denied from med school.
+Use data about medical school applicants and acceptances along with Random Forest Classification to classify whether a specified candidate will get accepted or denied from med school.
 
 ### Libraries to Install
 * mltools
