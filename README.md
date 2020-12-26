@@ -1,5 +1,5 @@
 # Med School Acceptance Random Forest Classification
-Use data about medical school applicants and acceptances along with Random Forest Classification to classify whether a specified candidate will get accepted or denied from med school.
+Use data about medical school applicants and acceptances along with Random Forest Classification to predict whether a specified candidate will get accepted or denied from med school.
 
 ### Libraries to Install
 * mltools
@@ -23,7 +23,7 @@ Use data about medical school applicants and acceptances along with Random Fores
 * AppStatus
   - Accepted or Denied (AppStatus is listed as accepted if canidate was accepted to at least one program)
 
-## Running the tests
+## Running the Program
 * Simply download the data and the program to your machine. When launching the program, make sure that the directory containing the data is set as your working directory.
 * Once the working directory is properly configured, run the entire program. The predictions will be saved in a data frame titled 'y_pred'
 ## Results
