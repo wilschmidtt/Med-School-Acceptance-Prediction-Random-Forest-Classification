@@ -6,7 +6,7 @@ Use data about medical school applicants and acceptances along with Random Fores
 * data.table
 * caTools
 * randomFOrest
-
+ 
 ### Interpreting Dataset Columns
 * Sex
   - Male or Female
